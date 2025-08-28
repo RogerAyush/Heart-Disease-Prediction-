@@ -16,6 +16,7 @@ This repo uses a Random Forest Classifier to predict heart disease with the Kagg
 4. Run: `python heart_disease_prediction_full_with_viz.py`
 
 --- Data Visualization ---
+
 <img width="558" height="393" alt="image" src="https://github.com/user-attachments/assets/4e2c9771-0c77-42c5-8275-5b2e2868fb51" />
 <img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/e42e014d-8e84-4ea3-82bb-6adb9471b89e" />
 <img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/9d1477ed-79ef-491d-863f-6960413e6dea" />
