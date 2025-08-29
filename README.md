@@ -1,4 +1,4 @@
-# HeartDiseasePrediction
+# Heart Disease Prediction
 
 This repo uses a Random Forest Classifier to predict heart disease with the Kaggle Cardiovascular Disease dataset (~70,000 records). It analyzes Age, Gender, Blood Pressure, Cholesterol, Resting Heart Rate, Blood Sugar, ECG Results, Smoking, and Exercise Habits to classify patients (1=disease, 0=no). Built in Python, it offers preprocessing, visualization, training, evaluation, and predictions.
 
